@@ -1,3 +1,3 @@
-# Welcome to my blog
+# This is not my blog
 
-I'm glad you are here. I plan to talk about ...
+This is only a silly exercise to get used to [GitHub](https://github.com)
